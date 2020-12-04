@@ -1,6 +1,6 @@
 # COVID-Tracker 
 
-COVID-19 tracker made with [InfluxDB](https://www.influxdata.com/), and [Grafana](https://grafana.com/).  
+COVID-19 tracker made with [InfluxDB](https://www.influxdata.com/) and [Grafana](https://grafana.com/).  
 Data used for the world map panel is from [TrackCorona API](https://www.trackcorona.live/api) and the data used for the CDR and Trend panels are from 
 [Kaggle Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv).  
 Project was made following this [tutorial](https://www.youtube.com/watch?v=CSzxHBlVkRw&ab_channel=techwithshakul).
